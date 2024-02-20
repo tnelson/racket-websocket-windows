@@ -1,6 +1,6 @@
 # Instructions
 
-These files illustrate an issue with web sockets in Racket using `net/rfc6455`. The issue is only encountered when the _server_ is run from Windows. 
+These files illustrate an issue with web sockets in Racket using `net/rfc6455`. The issue is only encountered when the _server_ is run from Windows `cmd` or PowerShell, rather than (e.g.) DrRacket. 
 
 This repo was produced using Racket 8.10, but we also have reports of it happening on other 8.X versions.
 
